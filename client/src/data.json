@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 1,
+            "name": "es teh",
+            "quanty": 2,
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "name": "ayam",
+            "quanty": 5,
+            "price": 4000
+        }
+    ]
+}
